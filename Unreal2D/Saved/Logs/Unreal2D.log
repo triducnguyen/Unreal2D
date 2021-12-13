@@ -944,3 +944,425 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-21.13.45:232][ 69]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_BG.LV1_BG
 [2021.12.13-21.15.24:620][569]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
 [2021.12.13-21.15.26:648][679]LogEditorViewport: Clicking Background
+[2021.12.13-21.19.52:572][235]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-21.19.52:583][235]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-21.20.08:271][177]LogContentBrowser: Attempting asset rename: NewFolder -> CubeAnimations
+[2021.12.13-21.20.08:272][177]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-21.20.41:098][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.13-21.20.41:099][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.007
+[2021.12.13-21.20.41:101][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_1] ([1] browsable assets)...
+[2021.12.13-21.20.41:103][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_1.LV1_1]
+[2021.12.13-21.20.41:103][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_1]
+[2021.12.13-21.20.41:106][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_1_Auto12ABD71454056AEB64E8C96ABCA1B0F2F.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_1_Auto1.uasset'
+[2021.12.13-21.20.41:107][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_2] ([1] browsable assets)...
+[2021.12.13-21.20.41:110][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_2.LV1_2]
+[2021.12.13-21.20.41:110][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_2]
+[2021.12.13-21.20.41:112][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_2_Auto1FA20ABB446E886C37F6FC1B097569250.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_2_Auto1.uasset'
+[2021.12.13-21.20.41:113][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_3] ([1] browsable assets)...
+[2021.12.13-21.20.41:116][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_3.LV1_3]
+[2021.12.13-21.20.41:116][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_3]
+[2021.12.13-21.20.41:118][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_3_Auto18A4E31654E0A9BDA6EF68F8A9964E281.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_3_Auto1.uasset'
+[2021.12.13-21.20.41:120][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_4] ([1] browsable assets)...
+[2021.12.13-21.20.41:125][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_4.LV1_4]
+[2021.12.13-21.20.41:125][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_4]
+[2021.12.13-21.20.41:128][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_4_Auto1C0F529AD4202FBEA42CCDC9DB1D86AB4.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_4_Auto1.uasset'
+[2021.12.13-21.20.41:129][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_5] ([1] browsable assets)...
+[2021.12.13-21.20.41:132][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_5.LV1_5]
+[2021.12.13-21.20.41:132][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_5]
+[2021.12.13-21.20.41:135][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_5_Auto1644096D8423A6A613D9A89AE721D77DF.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_5_Auto1.uasset'
+[2021.12.13-21.20.41:136][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling] ([1] browsable assets)...
+[2021.12.13-21.20.41:137][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling.LV1_ceiling]
+[2021.12.13-21.20.41:137][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling]
+[2021.12.13-21.20.41:139][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_ceiling_Auto16CF8A1CF4A53264D12FDA180F07DEEA2.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling_Auto1.uasset'
+[2021.12.13-21.20.41:140][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected] ([1] browsable assets)...
+[2021.12.13-21.20.41:141][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected.LV1_keyCollected]
+[2021.12.13-21.20.41:141][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected]
+[2021.12.13-21.20.41:143][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_keyCollected_Auto1F35A4E0B4363F3D62F967BA389A3AF0C.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected_Auto1.uasset'
+[2021.12.13-21.20.41:144][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1] ([1] browsable assets)...
+[2021.12.13-21.20.41:146][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1.LV1_lava1]
+[2021.12.13-21.20.41:146][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1]
+[2021.12.13-21.20.41:148][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava1_Auto1576793C7428AD52D769FEF8E90FAD80D.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1_Auto1.uasset'
+[2021.12.13-21.20.41:149][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2] ([1] browsable assets)...
+[2021.12.13-21.20.41:150][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2.LV1_lava2]
+[2021.12.13-21.20.41:150][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2]
+[2021.12.13-21.20.41:151][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava2_Auto182BE074B4F4FAAD0B5EE77A1850C7BA1.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2_Auto1.uasset'
+[2021.12.13-21.20.41:152][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop] ([1] browsable assets)...
+[2021.12.13-21.20.41:153][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop.LV1_lavaDrop]
+[2021.12.13-21.20.41:153][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop]
+[2021.12.13-21.20.41:155][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDrop_Auto1C20A66974FEB5371C33AD6A37B1778C9.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop_Auto1.uasset'
+[2021.12.13-21.20.41:156][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase] ([1] browsable assets)...
+[2021.12.13-21.20.41:158][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase.LV1_lavaDropBase]
+[2021.12.13-21.20.41:158][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase]
+[2021.12.13-21.20.41:160][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDropBase_Auto16F38AF3C4E0B1DEA9530259B95FF54AF.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase_Auto1.uasset'
+[2021.12.13-21.20.41:161][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1] ([1] browsable assets)...
+[2021.12.13-21.20.41:162][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1.LV1_spike1]
+[2021.12.13-21.20.41:162][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1]
+[2021.12.13-21.20.41:164][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike1_Auto167EDABF44BA0E2874101CDBDF884902D.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1_Auto1.uasset'
+[2021.12.13-21.20.41:165][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2] ([1] browsable assets)...
+[2021.12.13-21.20.41:166][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2.LV1_spike2]
+[2021.12.13-21.20.41:166][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2]
+[2021.12.13-21.20.41:168][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike2_Auto1F60B078D469F01365E459A8EDF07DD50.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2_Auto1.uasset'
+[2021.12.13-21.20.41:169][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam] ([1] browsable assets)...
+[2021.12.13-21.20.41:170][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam.LV1_steam]
+[2021.12.13-21.20.41:170][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam]
+[2021.12.13-21.20.41:172][864]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_steam_Auto1EF332ADE458F5714F29905B7F2E88BEE.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam_Auto1.uasset'
+[2021.12.13-21.20.41:173][864]LogFileHelpers: Auto-saving content packages took 0.074
+[2021.12.13-21.20.58:178][875]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-21.20.58:186][875]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-21.20.59:773][971]LogContentBrowser: Attempting asset rename: NewFolder -> Frames
+[2021.12.13-21.20.59:773][971]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-21.21.36:175][396]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/inuya/Downloads/PlayerInbetween.png)
+[2021.12.13-21.21.36:227][396]LogTexture: Display: Building textures: PlayerInbetween (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.21.36:320][396]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.21.36:339][396]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/inuya/Downloads/PlayerMid.png)
+[2021.12.13-21.21.36:385][396]LogTexture: Display: Building textures: PlayerMid (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.21.36:469][396]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.21.36:493][396]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/inuya/Downloads/PlayerStart.png)
+[2021.12.13-21.21.36:541][396]LogTexture: Display: Building textures: PlayerStart (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.21.36:629][396]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.28.03:216][433]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2021.12.13-21.28.03:337][438]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2021.12.13-21.28.33:336][230]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.13-21.29.11:454][230]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.13-21.29.11:463][230]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.13-21.29.11:472][230]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.13-21.29.16:226][516]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerCube
+[2021.12.13-21.29.16:231][516]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.13-21.29.20:152][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScroller/Sprites/PlayerCube/PlayerCube.PlayerCube
+[2021.12.13-21.29.20:374][750]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.12.13-21.29.31:936][366]LogRenderer: Reallocating scene render targets to support 1148x940 Format 10 NumSamples 1 (Frame:609).
+[2021.12.13-21.29.32:371][392]LogSlate: Window 'PlayerCube' being destroyed
+[2021.12.13-21.30.41:636][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.12.13-21.30.41:636][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2021.12.13-21.30.41:637][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerInbetween] ([1] browsable assets)...
+[2021.12.13-21.30.41:642][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerInbetween.PlayerInbetween]
+[2021.12.13-21.30.41:642][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerInbetween]
+[2021.12.13-21.30.41:649][750]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/PlayerInbetween_Auto2F395791440DEA0CCFC974C80710E8445.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerInbetween_Auto2.uasset'
+[2021.12.13-21.30.41:650][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerMid] ([1] browsable assets)...
+[2021.12.13-21.30.41:654][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerMid.PlayerMid]
+[2021.12.13-21.30.41:654][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerMid]
+[2021.12.13-21.30.41:661][750]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/PlayerMid_Auto2703E3B494127E1890EDD4EBED0E1E33E.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerMid_Auto2.uasset'
+[2021.12.13-21.30.41:662][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerStart] ([1] browsable assets)...
+[2021.12.13-21.30.41:666][750]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerStart.PlayerStart]
+[2021.12.13-21.30.41:666][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerStart]
+[2021.12.13-21.30.41:673][750]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/PlayerStart_Auto28A153B6C42DA19CAF6EB3CA2F4EACF43.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/PlayerStart_Auto2.uasset'
+[2021.12.13-21.30.41:676][750]LogFileHelpers: Auto-saving content packages took 0.039
+[2021.12.13-21.39.27:696][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/inuya/Documents/BSU/GIMM 400/Unreal Minigame/PlayerCube_Spritesheet.png)
+[2021.12.13-21.39.27:933][652]LogTexture: Display: Building textures: PlayerCube_Spritesheet (OODLE_AutoDXT, 8192X1536)
+[2021.12.13-21.39.28:297][652]LogTextureFormatOodle: Display: non-RDO encode 8192 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.40.42:012][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.12.13-21.40.42:013][ 60]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.024
+[2021.12.13-21.40.42:013][ 60]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/PlayerCube_Spritesheet] ([1] browsable assets)...
+[2021.12.13-21.40.42:015][ 60]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/PlayerCube_Spritesheet.PlayerCube_Spritesheet]
+[2021.12.13-21.40.42:015][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/PlayerCube_Spritesheet]
+[2021.12.13-21.40.42:724][ 60]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/PlayerCube_Spritesheet_Auto31EF22BD94C8079B617339DAB95749843.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/PlayerCube_Spritesheet_Auto3.uasset'
+[2021.12.13-21.40.42:725][ 60]LogFileHelpers: Auto-saving content packages took 0.712
+[2021.12.13-21.43.49:064][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.12.13-21.43.51:192][957]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.43.51:264][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.12.13-21.43.56:877][ 83]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\5.png)
+[2021.12.13-21.43.56:928][ 83]LogTexture: Display: Building textures: 5 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.43.57:018][ 83]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.43.57:038][ 83]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\1.png)
+[2021.12.13-21.43.57:085][ 83]LogTexture: Display: Building textures: 1 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.43.57:173][ 83]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.43.57:197][ 83]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\2.png)
+[2021.12.13-21.43.57:242][ 83]LogTexture: Display: Building textures: 2 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.43.57:329][ 83]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.43.57:348][ 83]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\3.png)
+[2021.12.13-21.43.57:392][ 83]LogTexture: Display: Building textures: 3 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.43.57:474][ 83]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.43.57:495][ 83]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\4.png)
+[2021.12.13-21.43.57:553][ 83]LogTexture: Display: Building textures: 4 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.43.57:663][ 83]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.44.16:178][868]Cmd: TRANSACTION UNDO
+[2021.12.13-21.44.16:178][868]LogEditorTransaction: Undo Clicking on Components
+[2021.12.13-21.44.16:194][868]Cmd: EDIT CUT
+[2021.12.13-21.44.16:198][868]LogEditorActor: Deleted Actor: PlayerStart
+[2021.12.13-21.44.16:220][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.12.13-21.44.16:221][868]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.12.13-21.44.17:092][917]Cmd: TRANSACTION UNDO
+[2021.12.13-21.44.17:092][917]LogEditorTransaction: Undo Cut
+[2021.12.13-21.44.17:479][939]Cmd: TRANSACTION UNDO
+[2021.12.13-21.44.17:479][939]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.13-21.44.17:896][964]Cmd: TRANSACTION UNDO
+[2021.12.13-21.44.17:896][964]LogEditorTransaction: Undo Clicking Background
+[2021.12.13-21.44.18:502][999]Cmd: TRANSACTION UNDO
+[2021.12.13-21.44.18:502][999]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.13-21.44.23:536][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.12.13-21.44.25:481][300]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.44.25:540][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.12.13-21.44.32:105][426]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\1.png)
+[2021.12.13-21.44.32:156][426]LogTexture: Display: Building textures: 1 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.44.32:249][426]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.44.35:434][473]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\2.png)
+[2021.12.13-21.44.35:486][473]LogTexture: Display: Building textures: 2 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.44.35:578][473]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.44.38:716][498]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\3.png)
+[2021.12.13-21.44.38:765][498]LogTexture: Display: Building textures: 3 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.44.38:847][498]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.44.42:379][527]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\4.png)
+[2021.12.13-21.44.42:430][527]LogTexture: Display: Building textures: 4 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.44.42:518][527]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.44.46:275][570]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\5.png)
+[2021.12.13-21.44.46:326][570]LogTexture: Display: Building textures: 5 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.44.46:415][570]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.44.57:985][868]LogTexture: Display: Building textures: 1 (BGRA8, 2048X1536)
+[2021.12.13-21.44.58:047][868]LogTexture: Display: Building textures: 2 (BGRA8, 2048X1536)
+[2021.12.13-21.44.58:108][868]LogTexture: Display: Building textures: 3 (BGRA8, 2048X1536)
+[2021.12.13-21.44.58:164][868]LogTexture: Display: Building textures: 4 (BGRA8, 2048X1536)
+[2021.12.13-21.44.58:216][868]LogTexture: Display: Building textures: 5 (BGRA8, 2048X1536)
+[2021.12.13-21.45.06:234][267]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.13-21.45.08:584][376]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.45.09:491][419]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.45.10:284][457]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.45.11:559][522]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.45.12:486][566]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.45.43:868][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.12.13-21.45.45:415][363]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.45.45:488][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.12.13-21.45.55:859][801]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\1.png)
+[2021.12.13-21.45.55:910][801]LogTexture: Display: Building textures: 1 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.45.55:999][801]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.45.58:940][833]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\2.png)
+[2021.12.13-21.45.58:991][833]LogTexture: Display: Building textures: 2 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.45.59:075][833]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.46.01:628][860]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\3.png)
+[2021.12.13-21.46.01:676][860]LogTexture: Display: Building textures: 3 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.46.01:759][860]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.46.04:668][890]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\4.png)
+[2021.12.13-21.46.04:719][890]LogTexture: Display: Building textures: 4 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.46.04:805][890]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.46.08:132][945]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inuya\Documents\BSU\GIMM 400\Unreal Minigame\PlayerCube\Frames\5.png)
+[2021.12.13-21.46.08:183][945]LogTexture: Display: Building textures: 5 (OODLE_AutoDXT, 2048X1536)
+[2021.12.13-21.46.08:269][945]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1536 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-21.46.30:848][598]LogTexture: Display: Building textures: 1 (BGRA8, 2048X1536)
+[2021.12.13-21.46.30:910][598]LogTexture: Display: Building textures: 2 (BGRA8, 2048X1536)
+[2021.12.13-21.46.30:974][598]LogTexture: Display: Building textures: 3 (BGRA8, 2048X1536)
+[2021.12.13-21.46.31:029][598]LogTexture: Display: Building textures: 4 (BGRA8, 2048X1536)
+[2021.12.13-21.46.31:083][598]LogTexture: Display: Building textures: 5 (BGRA8, 2048X1536)
+[2021.12.13-21.46.48:375][520]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.46.49:784][591]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.46.50:731][638]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.46.51:728][686]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.46.52:835][741]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.13-21.47.01:561][258]LogContentBrowser: Deferred new asset file creation: NewPaperFlipbook
+[2021.12.13-21.47.01:577][258]LogContentBrowser: Creating deferred item: NewPaperFlipbook
+[2021.12.13-21.47.05:466][492]LogContentBrowser: Attempting asset rename: NewPaperFlipbook -> Movement
+[2021.12.13-21.47.05:466][492]LogContentBrowser: End creating deferred item NewPaperFlipbook
+[2021.12.13-21.47.07:649][621]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/PlayerCube/Frames/Movement.Movement
+[2021.12.13-21.47.07:716][622]LogRenderer: Reallocating scene render targets to support 1452x940 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-21.48.39:372][  4]Cmd: TRANSACTION UNDO
+[2021.12.13-21.48.39:372][  4]LogEditorTransaction: Undo Insert assets as frames
+[2021.12.13-21.49.54:557][548]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{15d5af55-56ce-4ae2-85c0-0dd1271ba3ac}.
+[2021.12.13-21.49.54:557][548]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 4: BackLeft
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 5: BackRight
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 6: SideLeft
+[2021.12.13-21.49.54:561][548]LogAudioMixer: Display: 7: SideRight
+[2021.12.13-21.50.43:479][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.12.13-21.50.43:481][694]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.026
+[2021.12.13-21.50.43:481][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/1] ([1] browsable assets)...
+[2021.12.13-21.50.43:486][694]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/1.1]
+[2021.12.13-21.50.43:486][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/1]
+[2021.12.13-21.50.43:493][694]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/1_Auto4431BDF4A4A81C43A111780962AF54F19.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/1_Auto4.uasset'
+[2021.12.13-21.50.43:495][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/2] ([1] browsable assets)...
+[2021.12.13-21.50.43:501][694]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/2.2]
+[2021.12.13-21.50.43:501][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/2]
+[2021.12.13-21.50.43:507][694]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/2_Auto42BFA93844836CB7B870062862555AFD4.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/2_Auto4.uasset'
+[2021.12.13-21.50.43:509][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/3] ([1] browsable assets)...
+[2021.12.13-21.50.43:513][694]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/3.3]
+[2021.12.13-21.50.43:513][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/3]
+[2021.12.13-21.50.43:521][694]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/3_Auto42214142944EF4FC9B1BA58A3DE7FD225.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/3_Auto4.uasset'
+[2021.12.13-21.50.43:522][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/4] ([1] browsable assets)...
+[2021.12.13-21.50.43:527][694]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/4.4]
+[2021.12.13-21.50.43:527][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/4]
+[2021.12.13-21.50.43:534][694]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/4_Auto4D175BDE64661E14E0D74118D9B2E21B4.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/4_Auto4.uasset'
+[2021.12.13-21.50.43:535][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/5] ([1] browsable assets)...
+[2021.12.13-21.50.43:540][694]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/5.5]
+[2021.12.13-21.50.43:540][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/PlayerCube/Frames/5]
+[2021.12.13-21.50.43:546][694]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/5_Auto4E2812C9446265E1610FF6697BC4C47C3.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/PlayerCube/Frames/5_Auto4.uasset'
+[2021.12.13-21.50.43:547][694]LogFileHelpers: Auto-saving content packages took 0.066
+[2021.12.13-21.53.08:879][128]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a5b5a1b2-2135-4bcd-a12d-3bed945633e3}.
+[2021.12.13-21.53.08:879][128]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 4: BackLeft
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 5: BackRight
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 6: SideLeft
+[2021.12.13-21.53.08:899][128]LogAudioMixer: Display: 7: SideRight
+[2021.12.13-21.53.09:228][129]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4809d316-1c08-4f39-aad7-3f7d16b144a6}.
+[2021.12.13-21.53.09:228][129]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-21.53.09:275][129]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-21.53.09:275][129]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-21.53.09:576][130]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{15d5af55-56ce-4ae2-85c0-0dd1271ba3ac}.
+[2021.12.13-21.53.09:576][130]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-21.53.09:735][130]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-21.53.09:735][130]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-21.53.32:117][873]Cmd: TRANSACTION UNDO
+[2021.12.13-21.53.32:117][873]LogEditorTransaction: Undo Insert assets as frames
+[2021.12.13-21.54.46:041][807]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Movement3A9FCB2549BADB4481E92D8D0A97C60D.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/Movement.uasset'
+[2021.12.13-21.54.46:057][807]AssetCheck: New page: Asset Save: Movement
+[2021.12.13-21.54.46:057][807]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/PlayerCube/Frames/Movement.Movement
+[2021.12.13-21.54.47:180][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.12.13-21.54.47:223][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_1C89A85EA431A47DA916CCB918D031AA5.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_1.uasset'
+[2021.12.13-21.54.47:227][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_294401F4D47D0AEA777C7B8929495945B.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_2.uasset'
+[2021.12.13-21.54.47:233][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_39E1723634EFB4C17E4192999D07C0396.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_3.uasset'
+[2021.12.13-21.54.47:242][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_409DC92504D05BAAFF4282B82C029B605.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_4.uasset'
+[2021.12.13-21.54.47:246][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_53B08FEA5425565B43C40D58BAEBD4FA7.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_5.uasset'
+[2021.12.13-21.54.47:254][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_ceiling927BF07B4079F9E0C72747AFE9E1C6ED.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling.uasset'
+[2021.12.13-21.54.47:257][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_keyCollected5A03B4594942582681CC73874CAF6A18.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected.uasset'
+[2021.12.13-21.54.47:261][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava1BC89E4344474CCD2FB592CAB0060C1D1.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lava1.uasset'
+[2021.12.13-21.54.47:264][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava2A8373A78497E9BBCA1602E818C6E7826.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lava2.uasset'
+[2021.12.13-21.54.47:268][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDropC17A61984EEF92E45F86A8BD9428B008.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop.uasset'
+[2021.12.13-21.54.47:271][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDropBaseBA87082940237A99D3E0629322AAF8CC.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase.uasset'
+[2021.12.13-21.54.47:274][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike1C585DB2145FA6DB5D431A5B08A9469FB.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_spike1.uasset'
+[2021.12.13-21.54.47:278][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike2A47057D7443B3FEA1DD9058EBF93B49C.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_spike2.uasset'
+[2021.12.13-21.54.47:281][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_steam41FEFE66477E4E17094897B80C632639.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_steam.uasset'
+[2021.12.13-21.54.47:632][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/PlayerCube_SpritesheetC0B52A464ACE010E19E060B52C75165B.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/PlayerCube_Spritesheet.uasset'
+[2021.12.13-21.54.47:639][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/PlayerCube5221E42C431D5C054B79299DC2E43B0C.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/PlayerCube.uasset'
+[2021.12.13-21.54.47:740][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/146AF956443428CA09DA075903BE4B78B.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/1.uasset'
+[2021.12.13-21.54.47:837][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/2B9F5D54B47FBD8EA8F5B7BA58EFC8418.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/2.uasset'
+[2021.12.13-21.54.47:924][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/33EB4BB3D48B6590F653485BDDB793933.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/3.uasset'
+[2021.12.13-21.54.48:018][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/43FBEE4CF4BAEEEDE0DA175B624DA3313.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/4.uasset'
+[2021.12.13-21.54.48:116][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/5A37C4005474759708C9E219941B10D5E.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/5.uasset'
+[2021.12.13-21.54.48:127][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/5_Sprite_0A92D3F6444F515EEFFB7F19F73D38EE6.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_0.uasset'
+[2021.12.13-21.54.48:137][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/5_Sprite_1FDCB8D1246718E56AAB60590CDA03697.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_1.uasset'
+[2021.12.13-21.54.48:147][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/5_Sprite_22DB42B6740CD72683A2FC687B0D3F7F7.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_2.uasset'
+[2021.12.13-21.54.48:156][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/5_Sprite_346F0AF07407BC3B9164E289E47DD18C6.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_3.uasset'
+[2021.12.13-21.54.48:168][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/5_Sprite_447FA5417411BB35A644B71942C365827.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_4.uasset'
+[2021.12.13-21.54.48:178][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/4_Sprite_0F861CD554A7890DE63E6C8954212153C.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_0.uasset'
+[2021.12.13-21.54.48:188][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/4_Sprite_15075E91F46114061A545C2A8B965A293.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_1.uasset'
+[2021.12.13-21.54.48:200][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/4_Sprite_2AD8F5B644B1308AE0BF3D2B78728598F.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_2.uasset'
+[2021.12.13-21.54.48:211][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/4_Sprite_3C5573CFC4E37A2ABD4ADB0A55B1216C2.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_3.uasset'
+[2021.12.13-21.54.48:222][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/4_Sprite_4CF0BC61C45A491968D9F49924B72D988.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_4.uasset'
+[2021.12.13-21.54.48:233][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/3_Sprite_0FE1F18AC4E689487AB0F1AB0BEBBAC23.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_0.uasset'
+[2021.12.13-21.54.48:243][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/3_Sprite_1C323BBA943B761F0866592ABC8BE30FC.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_1.uasset'
+[2021.12.13-21.54.48:253][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/3_Sprite_2E13C05594A12848A4A8DCD891F0274BD.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_2.uasset'
+[2021.12.13-21.54.48:265][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/3_Sprite_3005D514848BB6D19B84F4CBF5232239C.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_3.uasset'
+[2021.12.13-21.54.48:275][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/2_Sprite_0FF535BC54722D63302866F890101FD9A.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_0.uasset'
+[2021.12.13-21.54.48:285][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/2_Sprite_1E60742BF4189482D70A31AAB66FB40C8.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_1.uasset'
+[2021.12.13-21.54.48:296][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/2_Sprite_23EE4A68A48ADAC05D875269126BEC11C.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_2.uasset'
+[2021.12.13-21.54.48:307][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/2_Sprite_3630ECEF4410BA8080CC03A9CAD0C3F51.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_3.uasset'
+[2021.12.13-21.54.48:320][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/2_Sprite_438ECC22B4C013F30E9BE22B476AD9DF7.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_4.uasset'
+[2021.12.13-21.54.48:330][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/1_Sprite_04A29555C4DC2E587C3DAE2B802C68779.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_0.uasset'
+[2021.12.13-21.54.48:340][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/1_Sprite_11B96AAD543F3CA02BA587797C61C0455.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_1.uasset'
+[2021.12.13-21.54.48:350][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/1_Sprite_21AF32F0E465A1150FD370EBCE535F35E.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_2.uasset'
+[2021.12.13-21.54.48:361][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/1_Sprite_3AB5C782044D443D99877F9BAE9939E08.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_3.uasset'
+[2021.12.13-21.54.48:372][874]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/1_Sprite_4781E6D304A1416257AE9EE994446499D.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_4.uasset'
+[2021.12.13-21.54.48:398][874]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Blueprint /Game/2DSideScroller/Sprites/PlayerCube/PlayerCube.PlayerCube
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_0.1_Sprite_0
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_4.2_Sprite_4
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam.LV1_steam
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2.LV1_spike2
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1.LV1_spike1
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase.LV1_lavaDropBase
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop.LV1_lavaDrop
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2.LV1_lava2
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1.LV1_lava1
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected.LV1_keyCollected
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling.LV1_ceiling
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_5.LV1_5
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_4.LV1_4
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_3.LV1_3
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_2.LV1_2
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_1.LV1_1
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_4.1_Sprite_4
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_3.1_Sprite_3
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_2.1_Sprite_2
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/1_Sprite_1.1_Sprite_1
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_3.2_Sprite_3
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/5.5
+[2021.12.13-21.54.48:398][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_2.2_Sprite_2
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_1.2_Sprite_1
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/2_Sprite_0.2_Sprite_0
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_3.3_Sprite_3
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_2.3_Sprite_2
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_1.3_Sprite_1
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/3_Sprite_0.3_Sprite_0
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_4.4_Sprite_4
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_3.4_Sprite_3
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_2.4_Sprite_2
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_1.4_Sprite_1
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/4_Sprite_0.4_Sprite_0
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_4.5_Sprite_4
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_3.5_Sprite_3
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_2.5_Sprite_2
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_1.5_Sprite_1
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/PlayerCube/Frames/5_Sprite_0.5_Sprite_0
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/3.3
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/PlayerCube/PlayerCube_Spritesheet.PlayerCube_Spritesheet
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/2.2
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/4.4
+[2021.12.13-21.54.48:399][874]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/PlayerCube/Frames/1.1
+[2021.12.13-21.55.03:464][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.12.13-21.55.04:896][565]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.55.04:965][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.12.13-21.55.04:983][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.05:001][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.13-21.55.05:019][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-21.55.05:052][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.12.13-21.55.05:070][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.09:086][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.12.13-21.55.10:332][805]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.55.10:411][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.12.13-21.55.10:430][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.13-21.55.10:447][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.10:465][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.10:489][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.12.13-21.55.10:507][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.12.13-21.55.14:348][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.15:406][ 33]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.55.15:481][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.12.13-21.55.15:498][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.15:516][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.12.13-21.55.15:541][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.12.13-21.55.15:559][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.18:083][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.13-21.55.19:045][184]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.55.19:119][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.12.13-21.55.19:138][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.19:156][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.12.13-21.55.19:174][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-21.55.19:199][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.12.13-21.55.19:217][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-21.55.21:678][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.13-21.55.22:780][331]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-21.55.22:849][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.12.13-21.55.22:868][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.13-21.55.22:886][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.12.13-21.55.22:908][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.13-21.55.22:941][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.12.13-21.55.22:966][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.13-21.55.36:129][115]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/MovementEB4A7FAE4E8B54D4918F7DB080EAEF93.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/PlayerCube/Movement.uasset'
+[2021.12.13-21.55.36:192][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.12.13-21.55.36:219][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.12.13-21.55.36:236][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.12.13-21.55.36:270][115]AssetCheck: New page: Asset Save: Movement
+[2021.12.13-21.55.36:270][115]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/PlayerCube/Movement.Movement
+[2021.12.13-21.55.57:004][359]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.12.13-21.57.51:291][555]LogContentBrowser: Deferred new asset file creation: NewPaperFlipbook
+[2021.12.13-21.57.51:308][555]LogContentBrowser: Creating deferred item: NewPaperFlipbook
+[2021.12.13-21.57.54:849][768]LogContentBrowser: Attempting asset rename: NewPaperFlipbook -> Idle
+[2021.12.13-21.57.54:850][768]LogContentBrowser: End creating deferred item NewPaperFlipbook
+[2021.12.13-21.57.59:606][ 53]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-21.57.59:606][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-21.58.00:699][117]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/PlayerCube/Idle.Idle
+[2021.12.13-22.00.33:662][128]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-22.00.33:662][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-22.01.02:135][123]LogContentBrowser: Deferred new asset file creation: NewPaperFlipbook
+[2021.12.13-22.01.02:148][123]LogContentBrowser: Creating deferred item: NewPaperFlipbook
+[2021.12.13-22.01.10:819][644]LogContentBrowser: Attempting asset rename: NewPaperFlipbook -> Jump
+[2021.12.13-22.01.10:819][644]LogContentBrowser: End creating deferred item NewPaperFlipbook
+[2021.12.13-22.01.14:068][836]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/PlayerCube/Jump.Jump
+[2021.12.13-22.01.56:503][371]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-22.01.56:503][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-22.02.24:722][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.12.13-22.02.24:724][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.030
