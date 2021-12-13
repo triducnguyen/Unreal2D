@@ -1593,3 +1593,264 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-22.21.41:543][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2021.12.13-22.21.41:564][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_10
 [2021.12.13-22.21.41:588][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.12.13-22.25.23:103][166]LogTexture: Display: Building textures: LV1_BG (BGRA8, 1280X720)
+[2021.12.13-22.25.23:130][166]LogTexture: Display: Building textures: LV1_lavaDropBase (BGRA8, 140X128)
+[2021.12.13-22.26.24:788][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.12.13-22.26.27:050][300]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-22.26.27:128][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.13-22.31.38:148][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.13-22.31.38:150][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.031
+[2021.12.13-22.31.38:150][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_BG] ([1] browsable assets)...
+[2021.12.13-22.31.38:154][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_BG.LV1_BG]
+[2021.12.13-22.31.38:154][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_BG]
+[2021.12.13-22.31.38:160][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_BG_Auto508B9986E484B3ACCA9A7949224E069CC.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_BG_Auto5.uasset'
+[2021.12.13-22.31.38:162][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_1] ([1] browsable assets)...
+[2021.12.13-22.31.38:165][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_1.LV1_1]
+[2021.12.13-22.31.38:165][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_1]
+[2021.12.13-22.31.38:170][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_1_Auto5E85EC1404167752FCB7FB0BD66775F3A.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_1_Auto5.uasset'
+[2021.12.13-22.31.38:171][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_2] ([1] browsable assets)...
+[2021.12.13-22.31.38:174][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_2.LV1_2]
+[2021.12.13-22.31.38:174][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_2]
+[2021.12.13-22.31.38:177][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_2_Auto51BCBF2D443E6389DB25AEEB946F1E49B.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_2_Auto5.uasset'
+[2021.12.13-22.31.38:179][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_3] ([1] browsable assets)...
+[2021.12.13-22.31.38:182][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_3.LV1_3]
+[2021.12.13-22.31.38:182][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_3]
+[2021.12.13-22.31.38:185][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_3_Auto5FB8ACDD840140DAC2E511A8C75DF34A8.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_3_Auto5.uasset'
+[2021.12.13-22.31.38:187][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_4] ([1] browsable assets)...
+[2021.12.13-22.31.38:192][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_4.LV1_4]
+[2021.12.13-22.31.38:192][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_4]
+[2021.12.13-22.31.38:196][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_4_Auto5493B7CDE44C4B65F0C5B669F92E2E365.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_4_Auto5.uasset'
+[2021.12.13-22.31.38:198][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_5] ([1] browsable assets)...
+[2021.12.13-22.31.38:201][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_5.LV1_5]
+[2021.12.13-22.31.38:201][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_5]
+[2021.12.13-22.31.38:205][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_5_Auto53BA518C443DAAA7DCEB04EB2C67BE115.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_5_Auto5.uasset'
+[2021.12.13-22.31.38:207][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling] ([1] browsable assets)...
+[2021.12.13-22.31.38:208][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling.LV1_ceiling]
+[2021.12.13-22.31.38:208][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling]
+[2021.12.13-22.31.38:211][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_ceiling_Auto53F23B15342F9E82EEBBE42BA3183C431.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling_Auto5.uasset'
+[2021.12.13-22.31.38:212][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected] ([1] browsable assets)...
+[2021.12.13-22.31.38:213][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected.LV1_keyCollected]
+[2021.12.13-22.31.38:213][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected]
+[2021.12.13-22.31.38:215][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_keyCollected_Auto5B39649514964BC26A45B5FA1B4BA2CAE.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected_Auto5.uasset'
+[2021.12.13-22.31.38:216][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1] ([1] browsable assets)...
+[2021.12.13-22.31.38:217][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1.LV1_lava1]
+[2021.12.13-22.31.38:217][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1]
+[2021.12.13-22.31.38:219][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava1_Auto53C3A8D974AA275BBED8880A5D1F85577.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1_Auto5.uasset'
+[2021.12.13-22.31.38:220][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2] ([1] browsable assets)...
+[2021.12.13-22.31.38:221][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2.LV1_lava2]
+[2021.12.13-22.31.38:222][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2]
+[2021.12.13-22.31.38:225][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava2_Auto5122D13244C365615D0F650AD319CCDF9.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2_Auto5.uasset'
+[2021.12.13-22.31.38:226][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop] ([1] browsable assets)...
+[2021.12.13-22.31.38:227][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop.LV1_lavaDrop]
+[2021.12.13-22.31.38:227][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop]
+[2021.12.13-22.31.38:228][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDrop_Auto5C7C92E934CA59D94D1CEA7AB396D11B3.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop_Auto5.uasset'
+[2021.12.13-22.31.38:229][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase] ([1] browsable assets)...
+[2021.12.13-22.31.38:232][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase.LV1_lavaDropBase]
+[2021.12.13-22.31.38:232][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase]
+[2021.12.13-22.31.38:234][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDropBase_Auto54E3A8BC04E818A3EC8D4C9A3A7BCCD7C.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase_Auto5.uasset'
+[2021.12.13-22.31.38:237][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1] ([1] browsable assets)...
+[2021.12.13-22.31.38:238][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1.LV1_spike1]
+[2021.12.13-22.31.38:238][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1]
+[2021.12.13-22.31.38:240][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike1_Auto536BF1CA34E413B9579476B98C324B07F.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1_Auto5.uasset'
+[2021.12.13-22.31.38:242][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2] ([1] browsable assets)...
+[2021.12.13-22.31.38:244][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2.LV1_spike2]
+[2021.12.13-22.31.38:244][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2]
+[2021.12.13-22.31.38:246][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike2_Auto5EBFCBA9E4722E494E1122FBF3189BDB3.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2_Auto5.uasset'
+[2021.12.13-22.31.38:247][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam] ([1] browsable assets)...
+[2021.12.13-22.31.38:248][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam.LV1_steam]
+[2021.12.13-22.31.38:248][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam]
+[2021.12.13-22.31.38:250][829]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_steam_Auto567FFA8CE4BAAF9C26A521E946399515F.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam_Auto5.uasset'
+[2021.12.13-22.31.38:251][829]LogFileHelpers: Auto-saving content packages took 0.102
+[2021.12.13-22.31.48:158][187]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/inuya/Documents/BSU/GIMM 400/Unreal Minigame/Level 1 Tileset.png)
+[2021.12.13-22.31.48:179][187]LogTexture: Display: Building textures: Level_1_Tileset (BGRA8, 1280X851)
+[2021.12.13-22.32.13:416][901]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.Level_1_Tileset_TileSet
+[2021.12.13-22.40.47:934][256]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-22.40.47:934][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-22.40.53:290][575]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-22.40.53:290][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-22.40.58:025][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.12.13-22.40.59:001][852]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-22.40.59:087][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.12.13-22.41.00:524][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.12.13-22.41.01:387][936]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-22.41.01:449][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.12.13-22.41.05:825][ 56]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/inuya/Documents/BSU/GIMM 400/Unreal Minigame/Level 1 Tileset.png)
+[2021.12.13-22.41.05:857][ 56]LogTexture: Display: Building textures: Level_1_Tileset (OODLE_AutoDXT, 1280X1500)
+[2021.12.13-22.41.05:912][ 56]LogTextureFormatOodle: Display: non-RDO encode 1280 x 1500 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-22.41.09:895][289]LogTexture: Display: Building textures: Level_1_Tileset (BGRA8, 1280X1500)
+[2021.12.13-22.41.14:997][584]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.Level_1_Tileset_TileSet
+[2021.12.13-22.41.17:899][697]LogSlate: Window 'Level_1_Tileset_TileSet' being destroyed
+[2021.12.13-22.41.45:839][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.12.13-22.41.45:841][999]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
+[2021.12.13-22.41.45:841][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset] ([1] browsable assets)...
+[2021.12.13-22.41.45:847][999]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset.Level_1_Tileset]
+[2021.12.13-22.41.45:847][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset]
+[2021.12.13-22.41.45:852][999]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_Auto6AD4736FB4557680BD3D67983FBA0A509.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_Auto6.uasset'
+[2021.12.13-22.41.45:854][999]LogFileHelpers: Auto-saving content packages took 0.013
+[2021.12.13-22.48.07:387][804]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:403][805]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:419][806]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:436][807]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:453][808]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:469][809]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:486][810]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:502][811]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:519][812]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:537][813]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:552][814]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:569][815]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:586][816]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:603][817]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:620][818]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:636][819]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:653][820]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:669][821]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.48.07:686][822]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-22.59.27:226][791]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileSet28DF3B5040F4A7EA7DC7C2A0456D0E58.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.uasset'
+[2021.12.13-22.59.27:247][791]AssetCheck: New page: Asset Save: Level_1_Tileset_TileSet
+[2021.12.13-22.59.27:247][791]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.Level_1_Tileset_TileSet
+[2021.12.13-22.59.32:509][ 95]LogContentBrowser: Deferred new asset file creation: Level_1_Tileset_TileMap
+[2021.12.13-22.59.32:539][ 95]LogContentBrowser: Creating deferred item: Level_1_Tileset_TileMap
+[2021.12.13-22.59.38:890][407]LogContentBrowser: Attempting asset rename: Level_1_Tileset_TileMap -> Level_1_Tileset_TileMap
+[2021.12.13-22.59.38:903][407]LogContentBrowser: End creating deferred item Level_1_Tileset_TileMap
+[2021.12.13-22.59.41:703][564]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.Level_1_Tileset_TileMap
+[2021.12.13-22.59.41:793][564]LogRenderer: Reallocating scene render targets to support 1452x960 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-23.02.11:131][697]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{15d5af55-56ce-4ae2-85c0-0dd1271ba3ac}.
+[2021.12.13-23.02.11:131][697]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-23.02.11:153][697]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-23.02.11:153][697]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-23.02.11:153][697]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.13-23.02.11:153][697]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.13-23.02.11:153][697]LogAudioMixer: Display: 4: BackLeft
+[2021.12.13-23.02.11:153][697]LogAudioMixer: Display: 5: BackRight
+[2021.12.13-23.02.11:153][697]LogAudioMixer: Display: 6: SideLeft
+[2021.12.13-23.02.11:154][697]LogAudioMixer: Display: 7: SideRight
+[2021.12.13-23.03.14:641][245]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileMap891541724F7A3E2CC98F96B52093C333.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.uasset'
+[2021.12.13-23.03.14:663][245]AssetCheck: New page: Asset Save: Level_1_Tileset_TileMap
+[2021.12.13-23.03.14:663][245]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.Level_1_Tileset_TileMap
+[2021.12.13-23.03.30:905][220]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-23.03.30:905][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-23.05.38:780][796]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:797][797]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:814][798]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:831][799]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:847][800]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:863][801]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:880][802]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:897][803]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:914][804]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:930][805]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:947][806]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:964][807]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:980][808]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.38:997][809]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:014][810]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:030][811]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:047][812]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:064][813]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:080][814]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:097][815]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:114][816]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:130][817]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:147][818]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:164][819]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:181][820]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:197][821]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:213][822]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:230][823]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:247][824]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:264][825]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:281][826]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:297][827]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:313][828]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:330][829]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:347][830]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:364][831]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:380][832]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:397][833]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:413][834]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:430][835]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:447][836]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:464][837]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:481][838]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:497][839]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:513][840]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:530][841]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:547][842]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:564][843]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:580][844]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:597][845]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.05.39:614][846]LogGeomTools: Triangulation of poly failed.
+[2021.12.13-23.09.02:587][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.12.13-23.09.02:597][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.036
+[2021.12.13-23.09.02:597][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet] ([1] browsable assets)...
+[2021.12.13-23.09.02:605][453]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.Level_1_Tileset_TileSet]
+[2021.12.13-23.09.02:605][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet]
+[2021.12.13-23.09.02:668][453]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileSet_Auto7640BF32C4528DA86DE477AA1DCAAB50B.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Autosaves/Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet_Auto7.uasset'
+[2021.12.13-23.09.02:669][453]LogFileHelpers: Auto-saving content packages took 0.072
+[2021.12.13-23.10.12:642][951]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-23.10.12:642][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-23.10.15:439][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.12.13-23.10.16:472][116]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.13-23.10.16:544][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.12.13-23.10.16:572][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.12.13-23.10.16:588][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.12.13-23.10.34:665][191]LogContentBrowser: Deferred new asset file creation: Level_1_Tileset_TileMap
+[2021.12.13-23.10.34:690][191]LogContentBrowser: Creating deferred item: Level_1_Tileset_TileMap
+[2021.12.13-23.10.36:226][284]LogContentBrowser: Attempting asset rename: Level_1_Tileset_TileMap -> Level_1_Tileset_TileMap
+[2021.12.13-23.10.36:237][284]LogContentBrowser: End creating deferred item Level_1_Tileset_TileMap
+[2021.12.13-23.10.37:673][370]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.Level_1_Tileset_TileMap
+[2021.12.13-23.10.49:285][ 59]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileMap8194D35940CCDC1CC09595AB20510CA9.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.uasset'
+[2021.12.13-23.10.49:298][ 59]AssetCheck: New page: Asset Save: Level_1_Tileset_TileMap
+[2021.12.13-23.10.49:298][ 59]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.Level_1_Tileset_TileMap
+[2021.12.13-23.11.23:403][106]Cmd: TRANSACTION UNDO
+[2021.12.13-23.11.23:403][106]LogEditorTransaction: Undo Tile Painting
+[2021.12.13-23.14.45:885][454]Cmd: TRANSACTION UNDO
+[2021.12.13-23.14.45:885][454]LogEditorTransaction: Undo Tile Painting
+[2021.12.13-23.15.18:677][416]Cmd: TRANSACTION UNDO
+[2021.12.13-23.15.18:677][416]LogEditorTransaction: Undo Tile Painting
+[2021.12.13-23.15.43:132][879]Cmd: TRANSACTION UNDO
+[2021.12.13-23.15.43:132][879]LogEditorTransaction: Undo Tile Painting
+[2021.12.13-23.16.01:459][973]Cmd: TRANSACTION UNDO
+[2021.12.13-23.16.01:459][973]LogEditorTransaction: Undo Tile Painting
+[2021.12.13-23.16.18:198][971]Cmd: TRANSACTION UNDO
+[2021.12.13-23.16.18:198][971]LogEditorTransaction: Undo Tile Painting
+[2021.12.13-23.19.41:836][171]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileMap515C91E642A51C9797C51B93E3F78AF4.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.uasset'
+[2021.12.13-23.19.41:854][171]AssetCheck: New page: Asset Save: Level_1_Tileset_TileMap
+[2021.12.13-23.19.41:854][171]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.Level_1_Tileset_TileMap
+[2021.12.13-23.19.43:318][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.12.13-23.19.43:372][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_BGBC19B40E4A9DBC2478A88996493CC41B.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_BG.uasset'
+[2021.12.13-23.19.43:377][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_1A0EAEE834239AD503DB4E79ABAF551E8.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_1.uasset'
+[2021.12.13-23.19.43:380][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_282A54AAE402A4927F4F566AC448E86B2.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_2.uasset'
+[2021.12.13-23.19.43:383][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_3B9596173487D0571454E8DA0E3716EDB.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_3.uasset'
+[2021.12.13-23.19.43:387][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_408EFD1804964BBACCE4F328B170D532A.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_4.uasset'
+[2021.12.13-23.19.43:390][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_58B519F244B61BB8F4A95A6991497A120.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_5.uasset'
+[2021.12.13-23.19.43:394][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_ceiling23D0CCF14BDC52AD00E06985AA5BFF89.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling.uasset'
+[2021.12.13-23.19.43:397][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_keyCollectedF7B3E4BF474A1715D14608A19C5C26ED.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected.uasset'
+[2021.12.13-23.19.43:400][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava1C615C1EF4590739F76FC3EB55E7EC0A9.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lava1.uasset'
+[2021.12.13-23.19.43:403][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lava2812423B74A9630FAC2E52FA4CAE271F0.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lava2.uasset'
+[2021.12.13-23.19.43:405][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDropD15122EB44E71610149C0090BA3CEC15.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop.uasset'
+[2021.12.13-23.19.43:408][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_lavaDropBase4FA53A7C464F5E0365D276BA2E89C388.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase.uasset'
+[2021.12.13-23.19.43:411][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike1DC4DDEEE42A5CFC7D4F0DABA0BFACC94.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_spike1.uasset'
+[2021.12.13-23.19.43:414][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_spike23A6FC12941F7F494AC3A7EABE0FCB6A6.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_spike2.uasset'
+[2021.12.13-23.19.43:418][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/LV1_steamFC4586A04A0CD635F3DD399DB02D2882.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/LV1_steam.uasset'
+[2021.12.13-23.19.43:461][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset3525669F4854FB10DDF8EFB0222BD03E.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset.uasset'
+[2021.12.13-23.19.43:521][257]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileSet8D4BDCCE4B38DB3CC0987792700E0281.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.uasset'
+[2021.12.13-23.19.43:537][257]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-23.19.43:537][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_steam.LV1_steam
+[2021.12.13-23.19.43:537][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike2.LV1_spike2
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_spike1.LV1_spike1
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDropBase.LV1_lavaDropBase
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lavaDrop.LV1_lavaDrop
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava2.LV1_lava2
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_lava1.LV1_lava1
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_keyCollected.LV1_keyCollected
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_ceiling.LV1_ceiling
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_5.LV1_5
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_4.LV1_4
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_3.LV1_3
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_2.LV1_2
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_1.LV1_1
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/LV1_BG.LV1_BG
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.Level_1_Tileset_TileSet
+[2021.12.13-23.19.43:538][257]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset.Level_1_Tileset
