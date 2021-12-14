@@ -1069,3 +1069,93 @@ Cancel: Abort the operation.
 [2021.12.14-01.01.48:058][344]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.14-01.01.48:058][344]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/Level1Sprites/LV1_BG_Sprite_0.LV1_BG_Sprite_0
 [2021.12.14-01.01.48:058][344]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset.Level_1_Tileset
+[2021.12.14-01.02.20:558][652]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.14-01.02.20:563][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-01.02.20:563][652]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 13, 2021, 11:02:20 AM)
+[2021.12.14-01.02.20:563][652]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.14-01.02.20:566][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003040s)
+[2021.12.14-01.02.20:567][652]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.14-01.02.20:567][652]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2021.12.14-01.02.20:567][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004260s)
+[2021.12.14-01.02.20:573][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.12.14-01.02.20:574][652]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.14-01.02.20:574][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-01.02.20:574][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-01.02.20:575][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-01.02.20:575][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-01.02.20:575][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-01.02.20:575][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-01.02.20:575][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-01.02.20:575][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-01.02.20:576][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.14-01.02.20:576][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.14-01.02.20:576][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.14-01.02.20:576][652]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-01.02.20:588][652]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-01.02.20:588][652]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-01.02.20:601][652]LogAudioMixer: Display: Using Audio Device Headphones (Epic Air Sport ANC Stereo)
+[2021.12.14-01.02.20:601][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-01.02.20:601][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-01.02.20:602][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-01.02.20:602][652]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-01.02.20:602][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-01.02.20:602][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-01.02.20:604][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-01.02.20:604][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-01.02.20:604][652]LogInit: FAudioDevice initialized.
+[2021.12.14-01.02.20:604][652]LogAudio: Display: Audio Device (ID: 4) registered with world '2DSideScrollerExampleMap'.
+[2021.12.14-01.02.20:613][652]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.14-01.02.20:615][652]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.12.13-18.02.20
+[2021.12.14-01.02.20:615][652]LogWorld: Bringing up level for play took: 0.000935
+[2021.12.14-01.02.20:615][652]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.12.14-01.02.20:618][652]PIE: Server logged in
+[2021.12.14-01.02.20:618][652]PIE: Play in editor total start time 0.056 seconds.
+[2021.12.14-01.02.25:598][951]LogBlueprintUserMessages: [LevelController_2] Set new spawn
+[2021.12.14-01.02.26:932][ 31]LogBlueprintUserMessages: [LevelController_2] Set new spawn
+[2021.12.14-01.02.29:682][196]LogBlueprintUserMessages: [LevelController_2] Set new spawn
+[2021.12.14-01.02.29:832][205]LogBlueprintUserMessages: [ExitKey_2] Pickup touched by player
+[2021.12.14-01.02.35:544][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-01.02.35:544][546]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.14-01.02.35:544][546]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-01.02.35:545][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-01.02.35:553][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-01.02.35:559][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-01.02.35:565][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-01.02.35:566][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-01.02.35:567][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-01.02.35:571][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.14-01.02.35:619][548]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.12.14-01.03.01:586][781]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{05f0da95-da43-4ff8-b1cb-65f7216ec28d}.
+[2021.12.14-01.03.01:586][781]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.14-01.03.01:653][781]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-01.03.01:653][781]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-01.03.02:496][782]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.14-01.03.02:551][782]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-01.03.02:551][782]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-01.03.02:551][782]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.14-01.03.02:551][782]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.14-01.03.02:551][782]LogAudioMixer: Display: 4: BackLeft
+[2021.12.14-01.03.02:552][782]LogAudioMixer: Display: 5: BackRight
+[2021.12.14-01.03.02:552][782]LogAudioMixer: Display: 6: SideLeft
+[2021.12.14-01.03.02:552][782]LogAudioMixer: Display: 7: SideRight
+[2021.12.14-01.08.23:364][128]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileSet8719CE804803D2B4DEFE2FB34B126E41.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.uasset'
+[2021.12.14-01.08.23:378][128]AssetCheck: New page: Asset Save: Level_1_Tileset_TileSet
+[2021.12.14-01.08.23:378][128]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileSet.Level_1_Tileset_TileSet
+[2021.12.14-01.08.24:282][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.14-01.08.39:328][ 55]LogEditorViewport: Clicking Background
+[2021.12.14-01.08.50:695][731]LogContentBrowser: Deferred new asset file creation: Level_1_Tileset_TileMap
+[2021.12.14-01.08.50:706][731]LogContentBrowser: Creating deferred item: Level_1_Tileset_TileMap
+[2021.12.14-01.08.52:492][839]LogContentBrowser: Attempting asset rename: Level_1_Tileset_TileMap -> Level_1_Tileset_TileMap
+[2021.12.14-01.08.52:516][839]LogContentBrowser: End creating deferred item Level_1_Tileset_TileMap
+[2021.12.14-01.08.54:286][942]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.Level_1_Tileset_TileMap
+[2021.12.14-01.08.54:369][942]LogRenderer: Reallocating scene render targets to support 1148x960 Format 10 NumSamples 1 (Frame:1).
+[2021.12.14-01.16.34:358][535]Cmd: TRANSACTION UNDO
+[2021.12.14-01.16.34:358][535]LogEditorTransaction: Undo Tile Painting
+[2021.12.14-01.21.12:566][514]Cmd: TRANSACTION UNDO
+[2021.12.14-01.21.12:566][514]LogEditorTransaction: Undo Tile Painting
+[2021.12.14-01.21.13:978][592]Cmd: TRANSACTION UNDO
+[2021.12.14-01.21.13:978][592]LogEditorTransaction: Undo Tile Painting
+[2021.12.14-01.23.19:722][976]LogSavePackage: Moving '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Saved/Level_1_Tileset_TileMap8B4C1D3E4C543E6D3962BFA93620BF09.tmp' to '../../../../../../Users/inuya/Documents/GitHub/Unreal2D/Unreal2D/Content/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.uasset'
+[2021.12.14-01.23.19:735][976]AssetCheck: New page: Asset Save: Level_1_Tileset_TileMap
+[2021.12.14-01.23.19:735][976]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Sprites/Level1Sprites/Level_1_Tileset_TileMap.Level_1_Tileset_TileMap
+[2021.12.14-01.23.20:443][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
